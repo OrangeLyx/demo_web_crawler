@@ -75,5 +75,4 @@ This version is intended as a proof of concept and currently has the following l
 * Extracted results are not persisted in a database.
 * The AI extraction service is called for each general article page.
 * Some websites may block requests from cloud-server IP addresses.
-* JavaScript-rendered pages may require a browser-based crawler such as Playwright.
 * Product-page extraction currently depends on a third-party API.
