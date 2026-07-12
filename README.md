@@ -1,12 +1,10 @@
-# Web Crawler Demo
+# Web Crawler
 
 This repository contains a web crawler demo developed as a take-home interview assignment. The original requirement document is private, but the technical design and proposed system architecture are available in a Notion document.
 
 ## Deployment
 
-The crawler API is deployed on an AWS EC2 instance. http://52.14.124.149:8000/
-
-This proof of concept does not currently use a database, so previously generated JSON results are not stored.
+The crawler API is deployed on an AWS EC2 instance. http://52.14.124.149:8000/ This proof of concept does not currently use a database, so previously generated JSON results are not stored.
 
 ## Current Implementation
 
